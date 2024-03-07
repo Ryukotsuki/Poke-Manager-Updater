@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Ryukotsuki/PokeMMO-Manager-Updater/assets/50199421/60badcc7-c387-46e2-a587-55a10d22b240" alt="Updater">
+  <img src="https://github.com/Ryukotsuki/PokeMMO-Manager-Updater/assets/50199421/1bb91c18-8c65-48a0-bb9f-b09c97b1c20e" alt="Updater">
 </div>
 
 
