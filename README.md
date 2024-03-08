@@ -4,7 +4,7 @@
 
 ## Overview
 
-Poke Manager Updater is an application that facilitates the seamless update process for the PokeMMO Manager application. The updater checks for the latest release on the PokeMMO Manager GitHub repository and downloads the update, providing real-time progress and download speed information to the user.
+Poke Manager Updater is an application that facilitates the seamless update process for the Poke Manager application. The updater checks for the latest release on the Poke Manager GitHub repository and downloads the update, providing real-time progress and download speed information to the user.
 
 ## Media
 ![Updater](https://github.com/Ryukotsuki/Poke-Manager-Updater/assets/50199421/b7a05132-be2a-455b-ae0c-a0061b75124f)
