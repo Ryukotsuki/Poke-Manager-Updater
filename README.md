@@ -9,16 +9,16 @@ Poke Manager Updater is an application that facilitates the seamless update proc
 ## Media
 ![Updater](https://github.com/user-attachments/assets/cb2eb869-5e1f-4301-a44d-708af5a36af8)
 
-## Features
+## Features 🚀
 
-1. **Automated Updates**
-   - The updater automatically checks for the latest release on the GitHub repository and downloads updates when available.
-  
-2. **Downloaded & Total MB/s**
-   - The application shows the total amount downloaded and the current download progress since the update began.
-  
-3. **Download Progress**
-   - Users can track the download progress through a graphical progress bar and textual information.
+1. **Automatic Update Checks**  
+   - Seamlessly stay up-to-date with the latest releases. The updater automatically checks your GitHub repository and downloads updates when new versions are available.
 
-4. **Download Speed**
-   - Real-time download speed is displayed to provide users with insights into the download performance.
+2. **Detailed Download Metrics**  
+   - Keep track of your progress with precise metrics, including the total data downloaded (in MB) and the current progress since the update process began.
+
+3. **Visual & Textual Progress Tracking**  
+   - Enjoy a clear overview of download progress with a graphical progress bar and detailed textual updates for a better user experience.
+
+4. **Real-Time Download Speed Monitoring**  
+   - Gain insights into performance with real-time updates on download speeds, ensuring you stay informed about your connection and download efficiency.
