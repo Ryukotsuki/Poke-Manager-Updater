@@ -4,7 +4,7 @@
 
 ## Overview
 
-Poke Manager Updater is a utility designed to streamline the update process for the Poke Manager application. It automatically checks the Poke Manager GitHub repository for the latest release and downloads updates efficiently. Users benefit from real-time progress tracking and download speed metrics, ensuring a smooth and transparent update experience.
+Poke Manager Updater is a utility designed to streamline the update process for the Poke Manager application. It automatically checks the Poke Manager GitHub repository for the latest release and downloads updates efficiently. Users benefit from real-time progress tracking and download speed metrics, ensuring a smooth update experience.
 
 
 ## Media
