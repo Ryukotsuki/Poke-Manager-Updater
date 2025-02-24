@@ -8,7 +8,7 @@ Poke Manager Updater is a utility designed to streamline the update process for 
 
 
 ## Media
-![Updater](https://github.com/user-attachments/assets/cb2eb869-5e1f-4301-a44d-708af5a36af8)
+![PokeUpdater](https://github.com/user-attachments/assets/3db74558-d4fb-4a11-81e9-059748fa74f6)
 
 ## Features 🚀
 
